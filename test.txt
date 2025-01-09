@@ -1,0 +1,3 @@
+this is a Sample text file
+it Has 2 Lines and the word 'the' should appear 5 times
+the the the
